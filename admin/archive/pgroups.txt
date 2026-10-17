@@ -1,0 +1,72 @@
+{
+    "Animal Health and Production Technology": [
+        {
+            "id": 17,
+            "name": "Animal Health and Production Technology - Animal Health Technology",
+            "label": "Animal Health Technology",
+            "code": null
+        },
+        {
+            "id": 18,
+            "name": "Animal Health and Production Technology - Animal Production",
+            "label": "Animal Production",
+            "code": null
+        }
+    ],
+    "Business Administration": [
+        {
+            "id": 23,
+            "name": "Business Administration",
+            "label": "Business Administration",
+            "code": null
+        }
+    ],
+    "Computer Science": [
+        {
+            "id": 1,
+            "name": "Computer Science",
+            "label": "Computer Science",
+            "code": null
+        },
+        {
+            "id": 16,
+            "name": "Computer Science - Network & Cloud Computing",
+            "label": "Network & Cloud Computing",
+            "code": null
+        },
+        {
+            "id": 15,
+            "name": "Computer Science - Software & Web Development",
+            "label": "Software & Web Development",
+            "code": null
+        }
+    ],
+    "Mass Communication": [
+        {
+            "id": 3,
+            "name": "Mass Communication",
+            "label": "Mass Communication",
+            "code": null
+        }
+    ],
+    "Science Laboratory Technology": [
+        {
+            "id": 30,
+            "name": "Science Laboratory Technology",
+            "label": "Science Laboratory Technology",
+            "code": null
+        },
+        {
+            "id": 32,
+            "name": "Science Laboratory Technology - Microbiology",
+            "label": "Microbiology",
+            "code": null
+        },
+        {
+            "id": 31,
+            "name": "Science Laboratory Technology - Physics",
+            "label": "Physics",
+            "code": null
+        }
+    ]
+}

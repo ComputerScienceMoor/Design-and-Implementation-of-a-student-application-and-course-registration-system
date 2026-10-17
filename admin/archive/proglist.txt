@@ -1,0 +1,10 @@
+1|Computer Science|COM
+3|Mass Communication|
+15|Computer Science - Software & Web Development|SWD
+16|Computer Science - Network & Cloud Computing|NCC
+17|Animal Health and Production Technology - Animal Health Technology|AHT
+18|Animal Health and Production Technology - Animal Production|APT
+23|Business Administration|
+30|Science Laboratory Technology|SLT
+31|Science Laboratory Technology - Physics|PHY
+32|Science Laboratory Technology - Microbiology|MIC

@@ -1,0 +1,1 @@
+<?php echo ini_get('error_log') ?: 'no custom path — check your web server\'s default error log'; ?>
